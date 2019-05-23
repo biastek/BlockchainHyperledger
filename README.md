@@ -9,7 +9,7 @@
 	Build a web interface which allow users to do transactions (buy/sale)
 # MailApp
 	Active an account when join in Blockchain HyperLedger
-# Copy right iFARM @2019
+Copy right iFARM @2019
 	
  
  
